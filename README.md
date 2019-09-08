@@ -15,3 +15,7 @@ afhjal ;alsdf;a
 ;alksd tha ;lkajs d;tis sat;lkasidfna;ltkas0fa sa;ktlhaidf;atrkj afofifw
 
 ## How To Contribute
+
+### Copyright
+2019 trent
+2019 trent
