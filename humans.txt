@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Trent Harris	trenth@gmail.com	@suckit
 
 # THANKS
 
