@@ -13,7 +13,7 @@ mee morp
 
 ## Deployment
 
-;alksd tha ;lkajs d;tis sat;lkasidfna;ltkas0fa sa;ktlhaidf;atrkj afofifw
+do it, do it, do it
 
 ## How To Contribute
 
