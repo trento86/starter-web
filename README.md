@@ -4,7 +4,7 @@ this is a simple website project for showing how to use git and github together
 
 ## Introduction
 
-pee pee poo pooasdlfja ;aljsdf;as  pdfasf 
+pee pee poo poo
 
 ## Purpose
 
